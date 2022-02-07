@@ -1,0 +1,22 @@
+{
+  "name": "pdf-creator",
+  "version": "1.0.0",
+  "description": "Gerando arquivo PDF com pdf-creator-node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renansoder/PDF-Creator-NodeJS.git"
+  },
+  "author": "Renan Marcos Soder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renansoder/PDF-Creator-NodeJS/issues"
+  },
+  "homepage": "https://github.com/renansoder/PDF-Creator-NodeJS#readme",
+  "dependencies": {
+    "pdf-creator-node": "^2.2.4"
+  }
+}
